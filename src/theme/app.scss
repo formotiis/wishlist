@@ -1,0 +1,14 @@
+// Import the typography styles.
+//
+// MDC Typography
+//
+@use "@material/typography/mdc-typography";
+@forward "utils/utils";
+
+.container {
+  padding: 30px;
+}
+
+body {
+  margin: 0!important;
+}
